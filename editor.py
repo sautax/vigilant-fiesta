@@ -1,6 +1,6 @@
 import pickle
 
-array = []
+array = [['title',['sub1',"action(url)"],['sub2','action']],[]]
 
 
 
